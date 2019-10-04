@@ -1,1 +1,1 @@
-print("Hello Todd, this is your first script!")
+print("Hello Ringo, this is your first script!")
